@@ -61,6 +61,8 @@ Steps taken for analysis consists of:
 
 * Knowledge gaps is a bit difficult to state, the course content is very new to me and feel as though I cant remember everything I have already gone through (fast paced course). However I did use the LMS quite a lot to go through particular sections I needed to use, mostly with visualisations. Also the use of some colleagues aiding me in some simple basics at the start was helpful. I did get a little confused with using VSCode as it is new to me, however I got the hang of it as time went on. If knowledge was missed, materials was used such as, LMS, StackedOverflow, Youtube, PlotlyCommunity, AI, facilitators and colleagues.
 
+* Plotly visualisations do not show on GitHub. Unsure why.
+
 
 ## Development Roadmap
 * There was an issue with me plotting plotly charts in the notebook and obtaining the error of NBformat not installed. Essentially, i just wanted to see if the chart worked and by using StackedOverflow I was able to display it on the browser. I then contacted Vasi which I was advised to install NBformat in the terminal, reset the kernel and it still didnt seem to work. Vasi suggested installing it within the notebook, which eventually worked.
