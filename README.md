@@ -1,4 +1,4 @@
-# Online Retail Transaction Dataset Project
+# Online Retail Transaction Analysis Project
 
 In this project I aim to understand, analyse and manipulate the data. This is to better understand where the business is at currently, the customers, the products. Extracting useful text based and visual insights from this dataset is crucial as it will display where the business can improve and grow. Additionally, help make better informed business decisions aligning with the companies goals.
 
@@ -33,12 +33,13 @@ Steps taken for analysis consists of:
 * Transformation with added feature for a clean dataset. 
 * Analysis to get statistics and more understanding of the dataset.
 * Visualisations to extract valuable insights
+* Conclude findings and suggest recommendations
 
 ## The rationale to map the business requirements to the Data Visualisations
-* my business requirement was "To extract actionable insights from the dataset in order to enhance customer engagement, optimize product offerings, and drive strategic sales growth." It is common in the retail industry to look at sales, seasonality, cusomters and their characteristics in spending and the products being bought. 
+* My business requirement was "To extract actionable insights from the dataset in order to enhance customer engagement, optimize product offerings, and drive strategic sales growth." It is common in the retail industry to look at sales, seasonality, cusomters and their characteristics in spending and the products being bought. 
 
 ## Analysis techniques used
-* researching and using the standard key metrics for an online retail industry, this helped reach my objectives and gain a better understanding on the dataset. 
+* Researching and using the standard key metrics for an online retail industry, this helped reach my objectives and gain a better understanding on the dataset. 
 
 * I structured the analysis around what a common retail industry would want to look at. Therefore giving me a basis of some sort of structure to go by, sales, products, customers etc.
 
@@ -48,7 +49,7 @@ Steps taken for analysis consists of:
 
 * ChatGPT was used for understanding of bits of code, particularly with plotly.
 
-* *StackedOverFlow and Youtube was also used for code understanding and helped with code.
+* StackedOverFlow and Youtube was also used for code understanding and helped with code building
 
 ## Ethical considerations
 * The dataset came from Kaggle and presumably would not have any legal or societal issues. There was no personal data within the dataset which could expose or identify any thing perosnal to a particular individual.
@@ -84,7 +85,7 @@ Steps taken for analysis consists of:
 * GeeksForGeeks
 * PlotlyCommunityForum
 * Chat GPT
-* Co-pilot
+* Co-Pilot
 * Facilitators
 * Colleagues
 
