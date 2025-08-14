@@ -39,10 +39,15 @@ Steps taken for analysis consists of:
 
 ## Analysis techniques used
 * researching and using the standard key metrics for an online retail industry, this helped reach my objectives and gain a better understanding on the dataset. 
+
 * I structured the analysis around what a common retail industry would want to look at. Therefore giving me a basis of some sort of structure to go by, sales, products, customers etc.
+
 * The dataset was not complicated, however within the description column, I noticed values such as "?" "lost" "damaged" "faulty". Ideally i wanted to remove these items but, it proved that there was alot of them. It was left in the dataset, however I checked the quantity on a small proportion of these on excel and they were 0 or below.
+
 * Co-pilot helped with some bits of code where its suggesting lines of code or speeding up code writing with assumptions that i deemed correct to use. 
-* ChatGPT was used for understanding of bits of code, particularly with plotly
+
+* ChatGPT was used for understanding of bits of code, particularly with plotly.
+
 * *StackedOverFlow and Youtube was also used for code understanding and helped with code.
 
 ## Ethical considerations
@@ -57,7 +62,7 @@ Steps taken for analysis consists of:
 
 
 ## Development Roadmap
-* There was an issue with me plotting plotly charts and obtaining the error of NBformat not installed. Essentially, i just wanted to see if the chart worked and by using StackedOverflow I was able to display it on the browser. I then contacted Vasi which I installed NBformat in the terminal, reset the kernel and it still didnt seem to work. Vasi suggested installing it within the notebook, which eventually worked.
+* There was an issue with me plotting plotly charts in the notebook and obtaining the error of NBformat not installed. Essentially, i just wanted to see if the chart worked and by using StackedOverflow I was able to display it on the browser. I then contacted Vasi which I was advised to install NBformat in the terminal, reset the kernel and it still didnt seem to work. Vasi suggested installing it within the notebook, which eventually worked.
 
 * General understanding around what i needed to do with the content I had already learned. content had been revisited to gain better understanding as well as using YouTube and AI.
 
@@ -72,7 +77,6 @@ Steps taken for analysis consists of:
 
 
 ## Credits 
-
 * LMS via Code Institute
 * Google
 * YouTube
